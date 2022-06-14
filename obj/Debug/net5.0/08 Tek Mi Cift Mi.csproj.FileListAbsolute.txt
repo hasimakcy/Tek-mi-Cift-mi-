@@ -1,0 +1,31 @@
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Tek Mi Cift Mi\bin\Debug\net5.0\08 Tek Mi Cift Mi.exe
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Tek Mi Cift Mi\bin\Debug\net5.0\08 Tek Mi Cift Mi.deps.json
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Tek Mi Cift Mi\bin\Debug\net5.0\08 Tek Mi Cift Mi.runtimeconfig.json
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Tek Mi Cift Mi\bin\Debug\net5.0\08 Tek Mi Cift Mi.runtimeconfig.dev.json
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Tek Mi Cift Mi\bin\Debug\net5.0\08 Tek Mi Cift Mi.dll
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Tek Mi Cift Mi\bin\Debug\net5.0\ref\08 Tek Mi Cift Mi.dll
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Tek Mi Cift Mi\bin\Debug\net5.0\08 Tek Mi Cift Mi.pdb
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Tek Mi Cift Mi\obj\Debug\net5.0\08 Tek Mi Cift Mi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Tek Mi Cift Mi\obj\Debug\net5.0\08 Tek Mi Cift Mi.AssemblyInfoInputs.cache
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Tek Mi Cift Mi\obj\Debug\net5.0\08 Tek Mi Cift Mi.AssemblyInfo.cs
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Tek Mi Cift Mi\obj\Debug\net5.0\08 Tek Mi Cift Mi.csproj.CoreCompileInputs.cache
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Tek Mi Cift Mi\obj\Debug\net5.0\08 Tek Mi Cift Mi.dll
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Tek Mi Cift Mi\obj\Debug\net5.0\ref\08 Tek Mi Cift Mi.dll
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Tek Mi Cift Mi\obj\Debug\net5.0\08 Tek Mi Cift Mi.pdb
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Tek Mi Cift Mi\obj\Debug\net5.0\08 Tek Mi Cift Mi.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Tek Mi Cift Mi\bin\Debug\net5.0\08 Tek Mi Cift Mi.exe
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Tek Mi Cift Mi\bin\Debug\net5.0\08 Tek Mi Cift Mi.deps.json
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Tek Mi Cift Mi\bin\Debug\net5.0\08 Tek Mi Cift Mi.runtimeconfig.json
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Tek Mi Cift Mi\bin\Debug\net5.0\08 Tek Mi Cift Mi.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Tek Mi Cift Mi\bin\Debug\net5.0\08 Tek Mi Cift Mi.dll
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Tek Mi Cift Mi\bin\Debug\net5.0\ref\08 Tek Mi Cift Mi.dll
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Tek Mi Cift Mi\bin\Debug\net5.0\08 Tek Mi Cift Mi.pdb
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Tek Mi Cift Mi\obj\Debug\net5.0\08 Tek Mi Cift Mi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Tek Mi Cift Mi\obj\Debug\net5.0\08 Tek Mi Cift Mi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Tek Mi Cift Mi\obj\Debug\net5.0\08 Tek Mi Cift Mi.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Tek Mi Cift Mi\obj\Debug\net5.0\08 Tek Mi Cift Mi.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Tek Mi Cift Mi\obj\Debug\net5.0\08 Tek Mi Cift Mi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Tek Mi Cift Mi\obj\Debug\net5.0\08 Tek Mi Cift Mi.dll
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Tek Mi Cift Mi\obj\Debug\net5.0\ref\08 Tek Mi Cift Mi.dll
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Tek Mi Cift Mi\obj\Debug\net5.0\08 Tek Mi Cift Mi.pdb
+C:\Users\Lenovo\Desktop\!#!\YAZILIM UZMANLIGI\Tek Mi Cift Mi\obj\Debug\net5.0\08 Tek Mi Cift Mi.genruntimeconfig.cache
